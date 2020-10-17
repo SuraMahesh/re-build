@@ -11,16 +11,16 @@ function Education() {
         <div className="education__section">
                 <Link to="/tuition">
                 <Card 
-                src="https://i.pinimg.com/originals/c0/80/e1/c080e1556f0686f7bbfb6c13ffdcb9da.jpg"
-                title="Village Model Houses"
-                description="Houses, Villas and Most luxury village model houses are here. "
+                src="https://www.gstatic.com/bfe/apps/website/img/h/51452684-notebook-1440.jpg"
+                title="Tutions"
+                description="Tution classes for Grade 6 -11 and for Alevel classes "
                  />
                 </Link>
                 <Link to="/books">
                 <Card 
-                src="https://www.beautifullife.info/wp-content/uploads/2018/07/20/general.jpg"
-                title="Mountain Side Houses with Garden"
-                description="Houses, Bunglows and Beautiful Inn for your satisfaction from us"
+                src="https://images.theconversation.com/files/45159/original/rptgtpxd-1396254731.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop"
+                title="Books"
+                description="Books for students and teachers are available"
                 />
                 </Link>
 
