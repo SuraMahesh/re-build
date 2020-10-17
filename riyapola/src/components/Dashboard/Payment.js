@@ -10,7 +10,7 @@ function Payment() {
               <div className="card-body">
                 <nav className="nav flex-column nav-pills nav-gap-y-1">
                   <a
-                    href="creatorprofile"
+                    href="publicprofile"
                     data-toggle="tab"
                     className="nav-item nav-link has-icon nav-link-faded"
                   >
@@ -31,7 +31,7 @@ function Payment() {
                     Profile Information
                   </a>
                   <a
-                    href="accountsettings"
+                    href="account"
                     data-toggle="tab"
                     className="nav-item nav-link has-icon nav-link-faded"
                   >
@@ -53,7 +53,7 @@ function Payment() {
                   </a>
                   
                   <a
-                    href="notifications"
+                    href="alert"
                     data-toggle="tab"
                     className="nav-item nav-link has-icon nav-link-faded"
                   >
@@ -74,7 +74,7 @@ function Payment() {
                     Alert
                   </a>
                   <a
-                    href="billing"
+                    href="payment"
                     data-toggle="tab"
                     className="nav-item nav-link has-icon nav-link-faded active"
                   >

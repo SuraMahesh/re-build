@@ -10,7 +10,7 @@ function PublicProfile() {
             <div className="card-body">
               <nav className="nav flex-column nav-pills nav-gap-y-1">
                 <a
-                  href="creatorprofile"
+                  href="publicprofile"
                   data-toggle="tab"
                   className="nav-item nav-link has-icon nav-link-faded active"
                 >
@@ -31,7 +31,7 @@ function PublicProfile() {
                   My account
                 </a>
                 <a
-                  href="accountsettings"
+                  href="account"
                   data-toggle="tab"
                   className="nav-item nav-link has-icon nav-link-faded"
                 >
@@ -53,7 +53,7 @@ function PublicProfile() {
                 </a>
 
                 <a
-                  href="notifications"
+                  href="alert"
                   data-toggle="tab"
                   className="nav-item nav-link has-icon nav-link-faded"
                 >
@@ -77,7 +77,7 @@ function PublicProfile() {
 
 
                 <a
-                  href="billing"
+                  href="payment"
                   data-toggle="tab"
                   className="nav-item nav-link has-icon nav-link-faded active"
                 >
@@ -119,7 +119,7 @@ function PublicProfile() {
               >
                 <li className="nav-item">
                   <a
-                    href="#profile"
+                    href="#publicprofile"
                     data-toggle="tab"
                     className="nav-link has-icon active"
                   >
@@ -184,7 +184,7 @@ function PublicProfile() {
                 </li>
                 <li className="nav-item">
                   <a
-                    href="#notifications"
+                    href="#alert"
                     data-toggle="tab"
                     className="nav-link has-icon"
                   >
@@ -358,10 +358,7 @@ function PublicProfile() {
                   <button type="reset" className="btn btn-light">
                     Reset Changes
                   </button>
-
-
                 </form>
-
               </div>
             </div>
           </div>
