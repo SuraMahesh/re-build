@@ -2,7 +2,7 @@ import React from 'react';
 import "./Vehicles.css";
 import { Link } from "react-router-dom";
 import Card from "./VehiclesCard";
-import Banner from "./VBanner"
+import Banner from "./VBanner";
 
 
 function Vehicles() {

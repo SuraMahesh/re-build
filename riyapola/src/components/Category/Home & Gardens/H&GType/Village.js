@@ -23,6 +23,7 @@ function Village() {
             title="Vila"
             description="Beautiful Villa near to Beach in Galle for sale with special offers"
             star={92.73}
+            price="7,700,000"
         
         />
          <SearchResults

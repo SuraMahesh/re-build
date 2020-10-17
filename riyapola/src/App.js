@@ -28,6 +28,8 @@ import Alerts from "./components/Dashboard/Alerts";
 import Payment from "./components/Dashboard/Payment";
 import Mountaint from './components/Category/Home & Gardens/H&GType/Mountaint';
 import Village from './components/Category/Home & Gardens/H&GType/Village';
+import Lands from "./components/Category/Property/Type/Lands";
+import Commercial from "./components/Category/Property/Type/Commercial";
 
 
 
@@ -152,6 +154,16 @@ function App() {
           <Router path="/village">
             <Header />
             <Village />
+            <Footer />
+          </Router>
+          <Router path="/land">
+            <Header />
+            <Lands />
+            <Footer />
+          </Router>
+          <Router path="/commercial">
+            <Header />
+            <Commercial />
             <Footer />
           </Router>
           <Route path="/">
