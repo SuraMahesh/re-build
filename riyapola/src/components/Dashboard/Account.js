@@ -4,15 +4,6 @@ import "./user.styles.scss";
 function Account() {
     return (
         <div className="container">
-        <nav aria-label="breadcrumb" className="main-breadcrumb">
-          <ol className="breadcrumb">
-            <li className="breadcrumb-item">Home</li>
-            <li className="breadcrumb-item">User</li>
-            <li className="breadcrumb-item active" aria-current="page">
-              Profile Settings
-            </li>
-          </ol>
-        </nav>
         <div className="row" gutters-sm>
           <div className="col-md-4 d-none d-md-block">
             <div className="card">
