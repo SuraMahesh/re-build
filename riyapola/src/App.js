@@ -30,6 +30,8 @@ import Mountaint from './components/Category/Home & Gardens/H&GType/Mountaint';
 import Village from './components/Category/Home & Gardens/H&GType/Village';
 import Lands from "./components/Category/Property/Type/Lands";
 import Commercial from "./components/Category/Property/Type/Commercial";
+import Tuition from "./components/Category/Education/Type/Tuition";
+import Books from "./components/Category/Education/Type/Books";
 
 
 
@@ -164,6 +166,16 @@ function App() {
           <Router path="/commercial">
             <Header />
             <Commercial />
+            <Footer />
+          </Router>
+          <Router path="/tuition">
+            <Header />
+            <Tuition />
+            <Footer />
+          </Router>
+          <Router path="/books">
+            <Header />
+            <Books />
             <Footer />
           </Router>
           <Route path="/">
