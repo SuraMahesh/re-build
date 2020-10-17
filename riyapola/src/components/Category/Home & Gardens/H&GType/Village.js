@@ -23,7 +23,7 @@ function Village() {
             title="Vila"
             description="Beautiful Villa near to Beach in Galle for sale with special offers"
             star={92.73}
-            price="7,700,000"
+            price="7,700,000 RS"
         
         />
          <SearchResults
@@ -32,6 +32,7 @@ function Village() {
             title="Homestay Green Grass Garden"
             description="For rent"
             star={77.77}
+            price="9,900,000 RS"
         
         />
          <SearchResults
@@ -40,6 +41,7 @@ function Village() {
             title="Green Villa"
             description="For sale"
             star={88.73}
+            price="10,900,000 RS"
         
         />
          <SearchResults
@@ -48,6 +50,7 @@ function Village() {
             title="Village villa"
             description="For sale"
             star={50.73}
+            price="8,900,000 RS"
         
         />
          <SearchResults
@@ -56,6 +59,7 @@ function Village() {
             title="Village Villa"
             description="For sale"
             star={45.73}
+            price="11,900,000 RS"
         
         />
          <SearchResults
@@ -64,6 +68,7 @@ function Village() {
             title="Village Villa "
             description="Village villa near to beautiful paddy field for sale"
             star={40.73}
+            price="5,900,000 RS"
         
         />
          <SearchResults
@@ -72,6 +77,7 @@ function Village() {
             title="Garden within the house"
             description="For sale"
             star={39.90}
+            price="3,500,000 RS"
         
         />
          <SearchResults
@@ -80,6 +86,7 @@ function Village() {
             title="Top end House"
             description="For Sale"
             star={50.00}
+            price="20,900,000 RS"
         
         />
          <SearchResults
@@ -88,6 +95,7 @@ function Village() {
             title="Village Villa "
             description="Village vila with modern architectural design for sale"
             star={90.60}
+            price="10,900,000 RS"
         
         />
          <SearchResults
@@ -96,6 +104,7 @@ function Village() {
             title="Luxury House in Negombo"
             description="For sale"
             star={60.73}
+            price="25,900,000 RS"
         
         />
     </div>

@@ -22,7 +22,8 @@ function Mountant() {
             location="Nuwara Eliya"
             title="Bungalow"
             description="The largest cottage in Little England for sale"
-            star={59.73}
+            star={59.73} 
+            price="30,900,000 RS"
             
 
         />
@@ -32,6 +33,7 @@ function Mountant() {
             title="Bunglow"
             description="Luxury Bunglow for sale"
             star={69.73}
+            price="40,900,000"
             
 
         />
@@ -41,6 +43,7 @@ function Mountant() {
             title="Bunglow"
             description="Lake view cottage bunglow for sale"
             star={70.73}
+            price="20,900,000 RS"
             
 
         />
@@ -50,6 +53,7 @@ function Mountant() {
             title="Bunglow"
             description="Netherleigh Bunglow for sale"
             star={89.73}
+            price="10,900,000 RS"
             
 
         />
@@ -59,6 +63,7 @@ function Mountant() {
             title="bunglow"
             description="Albany Bunglow for sale"
             star={98.73}
+            price="25,900,000 RS"
             
 
         />
@@ -68,6 +73,7 @@ function Mountant() {
             title="Bunglow"
             description="Rosdale bunglow for sale"
             star={66.73}
+            price="15,900,000 RS"
             
 
         />
@@ -77,6 +83,7 @@ function Mountant() {
             title=" Bunglow"
             description="Full Funished Bunglow for sale"
             star={95.68}
+            price="35,900,000 RS"
             
 
         />
@@ -86,6 +93,7 @@ function Mountant() {
             title="Home Inn"
             description="Hevenly Home Inn for sale"
             star={90.09}
+            price="45,900,000 RS"
             
 
         />
@@ -95,6 +103,7 @@ function Mountant() {
             title="Bunglow"
             description="Stafford Banglow for sale"
             star={68.73}
+            price="50,900,000 RS"
             
 
         />
@@ -104,6 +113,7 @@ function Mountant() {
             title="Mount Lake Inn"
             description="Mount Lake Inn for sale"
             star={52.72}
+            price="50,900,000 RS"
             
 
         />

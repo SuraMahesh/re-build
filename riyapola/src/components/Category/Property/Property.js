@@ -11,16 +11,16 @@ function Property() {
             <div className="property__section">
                     <Link to="/land">
                     <Card 
-                    src="https://www.toyota.lk/wp-content/uploads/2018/09/landing.jpg"
-                    title="Cars"
-                    description="Toyota, Nizzan, BMW, Audi"
+                    src="https://www.primelands.lk/resources/834/03.jpg"
+                    title="Land Property"
+                    description="We present you various types of land properties for sale in different areas. "
                      />
                     </Link>
                     <Link to="/commercial">
                     <Card
-                    src="https://storage.googleapis.com/ti-thebikeinsurer/grid-boxes/extra/top-10/main_1441277375.png"
-                    title="Motorbikes"
-                    description="Pulser, Honda, TVS, Discover"
+                    src="https://www.hill-abbott.co.uk/wp-content/uploads/2019/02/Grey-Commercial-Property-background.png"
+                    title="Commercial Property"
+                    description="Buildings, Hotels , Land "
                     />
                     </Link>
                 </div>
