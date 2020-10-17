@@ -12,9 +12,7 @@ function Contact() {
             <div className="publish__card">
                 <div className='publish__container'>
                     <h1>Send E-mail</h1>
-
                     <form>
-
                         <div className="details">
                             <h6 className="topic">Your name(optional)</h6>
                             <div className="form-group">
@@ -24,9 +22,9 @@ function Contact() {
                         <p />
                         <div className="details">
                             <h6 className="topic">Your email address</h6>
-                            <div className="form-group">
+                           <div className="form-group">
                                 <input type="text" className="form-control" id="inputCity"></input>
-                            </div>
+                            </div> 
                         </div>
 
                         <p />
