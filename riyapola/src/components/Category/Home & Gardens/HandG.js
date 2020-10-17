@@ -11,16 +11,16 @@ function HandG() {
         <div className="HG__section">
                 <Link to="/village">
                 <Card 
-                src="https://allied-paper.co.uk/wp-content/uploads/2020/03/parttime-1024x512-1.jpg"
-                title="Part Time Jobs"
-                description="Workers are considered to be part-time if they commonly work fewer than 30 hours per week."
+                src="https://i.pinimg.com/originals/c0/80/e1/c080e1556f0686f7bbfb6c13ffdcb9da.jpg"
+                title="Village Model Houses"
+                description="Houses, Villas and Most luxury village model houses are here. "
                  />
                 </Link>
                 <Link to="/mountaint">
                 <Card 
-                src="https://www.careeraddict.com/uploads/article/3819/user-1823160-2017-03-17-11-05-08.jpg"
-                title="Full Time Jobs"
-                description="Join togethr to do your best with us."
+                src="https://www.beautifullife.info/wp-content/uploads/2018/07/20/general.jpg"
+                title="Mountain Side Houses with Garden"
+                description="Houses, Bunglows and Beautiful Inn for your satisfaction from us"
                 />
                 </Link>
 
